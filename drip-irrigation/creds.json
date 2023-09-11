@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stall-management-391618",
+  "private_key_id": "0b74a2c29515ebc373f2cddfee97d21a5feb6538",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQrJESo47aMcG+\nUcZ3F/s5OnZBcsMuLYRDnabuHVj+TBD/MbqBByd/ldtu7EYBUAY4DCTGshlGFE/G\nT/DnDKTbkCFXKKaZzsM6183CKjdqQA5A7libVCfPTVYj8VSdydT/lt56IMh4lHzU\nTwz7t6qQS4aPwus/6w1DtNQ8lAY2ROOlBKm8CGqIx3/e4FsnDsI3n7Pt9erpsFdS\njhXYYQqroYSmzoAotktFX75xR5txv4bV7AsbLORA45gkshILaXNpKXVRGCwhL2u1\nHn2HMwEI9UvZlU30Yg+ohvcJHutKG/iHG1Iu+uLNruTl59qPTp9a2OO0KQiv4Mkt\ncX1Qe6E9AgMBAAECggEAXLHLX7Q36MThg2Ff/9cvSaSmkzwfZ4vgjQii9nMi7RNt\nGW9FobtD2HEBIKzkDAE4Qf1i+MB0aaTsKvOn13rOYJoNtWHhX8FxB9qFFBMcup3p\ntv4pbhZb+MIp2Z2CMPVPIJosCaQ2aRnMuaLD6a0UnzRteb7kMWiAY+sXvDEk8UWr\nXmI3Uo7/BCuWjkTA7t7zAeUcwEKc3VCl6PifpDBSCjlYY5gj9hnHsczRkipCRjwc\noxlvt4i1IIHhI8XT7P1TH0C3xJwCOISgoJFxsCUV2sX/dPE74dInUYWKvwyHGJQd\nTjOBpnzmxBvV6Eao1JH/irum5MzLR1Q+Fqetu0v8IQKBgQDqAgujpx2tfpHseytv\nNGyq+xUDaH09cYvz1kzUR7prm1kUPHJkDL78p2We6WR/Ujme3frfcYja20IHqIjT\nRrOXrWe5NQ0lQ737f7JpY6SiJq5V4tEUXr1Vhw6jQkoCcOxQF/cGd1YryEIPJ3aG\nD8B1yy3SQLt8c2fyIvoo6XOZxwKBgQDkSQSCxLvfRaGbmp7EzUdk9vct+guXc2Fa\nU2Ug833Voc4mS2bOh56vztR08YSFkmrL5/1i8szMUslMDlr8DYK2sIma26P5z4Yu\nYv14X0sQci1njTynuWXlOOyBmpaqwXNILSW0PQmwnE0E+3coyHt70/LzVmllgg0o\njMWo75BM2wKBgAtYCApp6oVjkl1dZzCf4Pi07ULaCOA2pesvI1BTHdVjlYDmoUD6\nYTPMRZ/bfpSxfruV1TiJv3GkmWHXqLJdRg1/SXzv9nAtBYOwoAx92RhHOcJOGYac\nRR9lSa9eYkoWAU6sqrv0gwfiUFl9t0AueUz8iX8cxjn1Oj/BtFDRaFo3AoGBAKPM\ngKAT6XnazIqJ90HeyUt4qQMkVwzkjQXysK1kCPYwk2qGz82BIiujjG4cnan51QdZ\n/kXxUWGKRUV9R2tzhkbvhMzIrG+ip/TAsn6cYY/7XPjgLpVqQeKnZYvZECKVi9JO\nEq+w3DMM83aPuIBa2b+P5NMVParIFgjyeSEuQ6vhAoGABWjiUkWjs8KrMfA79rLF\niGGRJGVnU5Wp7Dd65Pevzqc5XELlNuBk/4TcPlTEg5CKNeC1+6/0NW1VcvCsnBKf\nmM2XfGzob/UsRufLszuNZoJsFYUnZPpujRU3/IOvBxL3PcupW+h5/PgIOPsM2tk0\n/Ls2bMnvSWVSODkRe+t1mxc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bnb-stall-management@stall-management-391618.iam.gserviceaccount.com",
+  "client_id": "116054935249158829394",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bnb-stall-management%40stall-management-391618.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
